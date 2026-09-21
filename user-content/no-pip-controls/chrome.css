@@ -1,0 +1,3 @@
+@-moz-document url("chrome://global/content/pictureinpicture/player.xhtml"){body #controls {
+    opacity: 0 !important;
+}}

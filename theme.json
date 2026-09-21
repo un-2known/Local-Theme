@@ -1,0 +1,21 @@
+{
+  "id": "Local-Theme",
+  "homepage": " ",
+  "author": "un2known",
+  "name": "local theme",
+  "description": " ",
+  "version": "1.0.0",
+  "createdAt": " ",
+  "updatedAt": " ",
+  "style": {
+    "chrome": "userChrome.css",
+    "content": "userContent.css"
+  },
+  "preferences": "preferences.json",
+  "readme": " ",
+  "image": " ",
+  "tags": [
+    "local"
+  ],
+  "fork": ["zen"]
+}

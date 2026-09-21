@@ -1,0 +1,3 @@
+html[zen-has-bookmarks="true"] :where(#overflowed-extensions-list,.unified-extensions-list) :where(unified-extensions-item,toolbaritem) {
+ visibility: collapse;
+}

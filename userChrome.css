@@ -1,0 +1,24 @@
+/* Name: Better Compact toolbar */
+/* Description: A Zen Browser mod that allows you to customize the width of the compact\[floating] toolbar. */
+/* Author: @un2known */
+@import url(local-themes/better-compact-toolbar/chrome.css);
+
+/* Name: Hide Translation button */
+/* Description: Hide Translation button */
+/* Author: @un2known */
+@import url(local-themes/hide-translations-button/chrome.css);
+
+/* Name: Hide Non Pined Extensions */
+/* Description: Hide Non Pined Extensions */
+/* Author: @un2known */
+@import url(local-themes/hide-unpin-extension/chrome.css);
+
+/* Name: Bookmark Toolbar Tweaks (edited) */
+/* Description: This theme provides comprehensive customization options for the bookmarks toolbar with enhanced transparency and auto-hide features. */
+/* Author: @ */
+@import url(local-themes/bookmark-toolbar-tweaks/chrome.css);
+
+/* Name: Clean Workspace UI */
+/* Description: hides the workspace indicator
+/* Author: @un2known */
+@import url(local-themes/clean-workspace-ui/chrome.css);
