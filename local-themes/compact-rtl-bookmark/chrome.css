@@ -1,7 +1,7 @@
 .bookmark-item{
   transition: 1s .5s;
   flex: 0 0 0;
-  min-width: 10px;
+  min-width: 25px;
   max-width: unset !important;
   gap: 5px;
   justify-content: right;
@@ -11,7 +11,7 @@
 }
 #PlacesToolbarItems {
   display: flex;
-  gap: 15px;
+  gap: 0px;
   direction: rtl;
   transition: 1s 1s;
   padding-inline: 10px;
