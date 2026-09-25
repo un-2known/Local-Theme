@@ -19,6 +19,12 @@
 @import url(local-themes/bookmark-toolbar-tweaks/chrome.css);
 
 /* Name: Clean Workspace UI */
-/* Description: hides the workspace indicator
+/* Description: hides the workspace indicator */
 /* Author: @un2known */
 @import url(local-themes/clean-workspace-ui/chrome.css);
+
+/* Name: Compact RTL Bookmark Toolbar */
+/* Description: This theme provides a compact and right-to-left (RTL) layout for the bookmark toolbar*/
+/* Author: @un2known */
+
+@import url(local-themes/compact-rtl-bookmark/chrome.css);

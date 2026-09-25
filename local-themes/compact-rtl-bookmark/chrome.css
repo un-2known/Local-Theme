@@ -1,0 +1,19 @@
+.bookmark-item{
+  transition: 1s .5s;
+  flex: 0 0 0;
+  min-width: 10px;
+  max-width: unset !important;
+  gap: 5px;
+  justify-content: right;
+  &:hover {flex:1; transition: 1s .1s;}
+  & label {max-width: unset !important;text-align: right;}
+
+}
+#PlacesToolbarItems {
+  display: flex;
+  gap: 15px;
+  direction: rtl;
+  transition: 1s 1s;
+  background: #5555bb44;
+  padding-inline: 10px;
+}
