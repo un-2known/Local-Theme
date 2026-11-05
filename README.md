@@ -9,6 +9,7 @@ This project combines several small CSS-based enhancements into a single theme s
 - Better Compact Toolbar
 - Hide Translation button
 - Hide Unpinned Extensions
+- Hide Extensions
 - Bookmark Toolbar Tweaks
 - Clean Workspace UI
 - Compact RTL Bookmark Toolbar

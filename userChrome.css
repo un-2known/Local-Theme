@@ -13,6 +13,11 @@
 /* Author: @un2known */
 @import url(local-themes/hide-unpin-extension/chrome.css);
 
+/* Name: Hide Extensions */
+/* Description: uses the same shortcut that hide bookmarks to hide extensions */
+/* Author: @un2known */
+@import url(local-themes/hide-extensions/chrome.css);
+
 /* Name: Bookmark Toolbar Tweaks (edited) */
 /* Description: This theme provides comprehensive customization options for the bookmarks toolbar with enhanced transparency and auto-hide features. */
 /* Author: @ */

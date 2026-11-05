@@ -1,0 +1,18 @@
+
+#zen-overflow-extensions-list {
+  overflow: hidden;
+  transition: 1s;
+  max-height: 0;
+  padding: 0px 2px 0px 2px !important;
+  overflow: clip;
+  transition: max-height .3s ease, padding .3s ease .2s;
+  interpolate-size: allow-keywords;
+
+  :root[zen-has-bookmarks] & {
+  max-height: 200px;
+  margin: 0;
+  padding: 10px 2px 0px 2px !important;
+  transition: max-height .3s ease, padding .3s ease;
+
+  }
+}
