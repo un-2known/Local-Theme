@@ -7,8 +7,14 @@
     { background-color: #0000 !important; }
 
   
-  &:is(&):is(moz-card,aside) {
-      background-color: #6661 !important;
-  }
+    &:is(&):is(moz-card,aside,.sineItem) {
+        background-color: #6661 !important;
+    }
+
+    &:is(&):is(#search-container > *) {
+      background: #444d !important;
+      border-radius: 10px;
+      
+    }
   }
 }
