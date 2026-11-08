@@ -1,4 +1,11 @@
-*
-{
-background-color: #0000 !important;
+
+@-moz-document url-prefix("about:") {
+
+  html, body, body *
+  {
+  &:not(button,button:has(&))
+    { background-color: #0000 !important; }
+
+  }
+
 }
