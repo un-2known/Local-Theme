@@ -7,8 +7,8 @@
     { background-color: #0000 !important; }
 
   
-  &:is(&):is(moz-card) {
-      background-color: #4441 !important;
+  &:is(&):is(moz-card,aside) {
+      background-color: #6661 !important;
   }
   }
 }
