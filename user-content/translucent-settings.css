@@ -6,6 +6,9 @@
   &:not(button,button:has(&))
     { background-color: #0000 !important; }
 
+  
+  &:is(&):is(moz-card) {
+      background-color: #4441 !important;
   }
-
+  }
 }
