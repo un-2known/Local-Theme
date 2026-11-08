@@ -1,35 +1,34 @@
 /* Name: Better Compact toolbar */
 /* Description: A Zen Browser mod that allows you to customize the width of the compact\[floating] toolbar. */
 /* Author: @un2known */
-@import url(local-themes/better-compact-toolbar/chrome.css);
+@import url("local-themes/better-compact-toolbar.css");
 
 /* Name: Hide Translation button */
 /* Description: Hide Translation button */
 /* Author: @un2known */
-@import url(local-themes/hide-translations-button/chrome.css);
+@import url("local-themes/hide-translation-button.css");
 
 /* Name: Hide Non Pined Extensions */
 /* Description: Hide Non Pined Extensions */
 /* Author: @un2known */
-@import url(local-themes/hide-unpin-extension/chrome.css);
+@import url("local-themes/hide-unpin-extension.css");
 
 /* Name: Hide Extensions */
 /* Description: uses the same shortcut that hide bookmarks to hide extensions */
 /* Author: @un2known */
-@import url(local-themes/hide-extensions/chrome.css);
+@import url("local-themes/hide-extensions.css");
 
 /* Name: Bookmark Toolbar Tweaks (edited) */
 /* Description: This theme provides comprehensive customization options for the bookmarks toolbar with enhanced transparency and auto-hide features. */
 /* Author: @ */
-@import url(local-themes/bookmark-toolbar-tweaks/chrome.css);
+@import url("local-themes/bookmark-toolbar-tweaks.css");
 
 /* Name: Clean Workspace UI */
 /* Description: hides the workspace indicator */
 /* Author: @un2known */
-@import url(local-themes/clean-workspace-ui/chrome.css);
+@import url("local-themes/clean-workspace-ui.css");
 
 /* Name: Compact RTL Bookmark Toolbar */
 /* Description: This theme provides a compact and right-to-left (RTL) layout for the bookmark toolbar*/
 /* Author: @un2known */
-
-@import url(local-themes/compact-rtl-bookmark/chrome.css);
+@import url("local-themes/compact-rtl-bookmark.css");

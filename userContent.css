@@ -1,4 +1,9 @@
 /* Name: No pip controls */
 /* Description: Hide all picture-in-picture controls */
 /* Author: @un2known */
-@import url(zen-local-themes/no-pip-controls/chrome.css);
+@import url("user-content/no-pip-controls.css");
+
+/* Name: Translucent Settings */
+/* Description: Apply translucent styling to settings pages */
+/* Author: @un2known */
+@import url("user-content/translucent-settings.css");
