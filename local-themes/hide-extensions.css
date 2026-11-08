@@ -16,3 +16,9 @@
 
   }
 }
+
+#PersonalToolbar {
+  visibility: visible !important;
+  min-height: unset !important;
+  max-height: unset !important;
+}
