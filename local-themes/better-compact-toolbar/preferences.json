@@ -1,9 +1,0 @@
-[
-  {
-    "property": "better_toolbar.width",
-    "label": "Compact sidebar width",
-    "type": "string",
-    "defaultValue": "240",
-    "placeholder": "number"
-  }
-]
